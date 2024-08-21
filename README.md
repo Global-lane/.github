@@ -1,6 +1,8 @@
 # Global Logistics Solutions
 
-![Global Logistics Solutions Banner](https://github.com/global-logistics-solutions/organization-banner.png)
+<p align="center">
+  <img src="https://github.com/global-logistics-solutions/WhatsApp-Image-2024-08-21-at-18.46.26_cd53c939.jpg" alt="Global Logistics Solutions Banner" width="800"/>
+</p>
 
 Welcome to the official GitHub organization for Global Logistics Solutions, a leading exporter specializing in connecting businesses to global markets with reliable and efficient logistics solutions.
 
